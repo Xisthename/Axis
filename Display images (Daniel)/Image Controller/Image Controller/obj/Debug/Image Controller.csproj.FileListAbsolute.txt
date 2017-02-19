@@ -1,0 +1,9 @@
+c:\users\xisth\documents\visual studio 2015\Projects\Image Controller\Image Controller\bin\Debug\Image Controller.exe.config
+c:\users\xisth\documents\visual studio 2015\Projects\Image Controller\Image Controller\bin\Debug\Image Controller.exe
+c:\users\xisth\documents\visual studio 2015\Projects\Image Controller\Image Controller\bin\Debug\Image Controller.pdb
+c:\users\xisth\documents\visual studio 2015\Projects\Image Controller\Image Controller\obj\Debug\Image Controller.csprojResolveAssemblyReference.cache
+c:\users\xisth\documents\visual studio 2015\Projects\Image Controller\Image Controller\obj\Debug\Image_Controller.MainForm.resources
+c:\users\xisth\documents\visual studio 2015\Projects\Image Controller\Image Controller\obj\Debug\Image_Controller.Properties.Resources.resources
+c:\users\xisth\documents\visual studio 2015\Projects\Image Controller\Image Controller\obj\Debug\Image Controller.csproj.GenerateResource.Cache
+c:\users\xisth\documents\visual studio 2015\Projects\Image Controller\Image Controller\obj\Debug\Image Controller.exe
+c:\users\xisth\documents\visual studio 2015\Projects\Image Controller\Image Controller\obj\Debug\Image Controller.pdb
